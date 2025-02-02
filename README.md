@@ -45,3 +45,11 @@ Alternatively, your can install the rapidscan python module with pip. This will 
 git clone https://github.com/skavngr/rapidscan.git 
 cd rapidscan
 python3 -m pip install .
+
+![Rapid scan 01](https://github.com/user-attachments/assets/6669ab13-db76-4535-9e5e-b0be58eac25d)
+![Rapid Scan 02](https://github.com/user-attachments/assets/23343529-50cf-4d41-ae75-100690e7af5e)
+![Rapid Scan 03](https://github.com/user-attachments/assets/e1867e2d-f666-4bb2-8194-e22aabddef1a)
+
+
+
+
